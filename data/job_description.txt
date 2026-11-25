@@ -1,0 +1,37 @@
+**Job Title:** Java Developer
+
+**Employment Type:** Contract – C2C (Corp-to-Corp)
+
+**Location:** United States
+
+**Job Description:**
+
+We are looking for a motivated Java Developer with strong knowledge of Java programming, Object-Oriented Programming (OOP), and Data Structures and Algorithms.
+
+**Required Skills:**
+- Strong understanding of Core Java and OOP concepts.
+- Knowledge of Data Structures and Algorithms.
+- Understanding of Java Collections Framework, Exception Handling, and Multithreading.
+- Knowledge of SQL, DBMS, and relational databases.
+- Familiarity with RESTful APIs and backend development.
+- Understanding of software development lifecycle (SDLC).
+- Knowledge of Git and GitHub.
+- Good problem-solving and analytical skills.
+- Ability to work collaboratively in a team environment.
+
+**Preferred Qualifications:**
+- Experience developing web applications.
+- Familiarity with Java Spring Boot and Hibernate.
+- Understanding of microservices architecture.
+- Knowledge of cloud platforms such as AWS.
+- Personal or academic software development projects.
+
+**Responsibilities:**
+- Develop, test, and maintain Java-based applications.
+- Write clean, reusable, and maintainable code.
+- Design and integrate REST APIs.
+- Debug and resolve application issues.
+- Collaborate with developers and technical teams.
+- Participate in code reviews and technical discussions.
+
+**Note:** Candidates with strong academic projects and foundational Java knowledge are encouraged to apply.

@@ -1,0 +1,31 @@
+# Environment secrets
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated resume and temporary files
+output/
+scratch/
+*.lock
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal information
+INAYAT_AHMED_ILKAL.pdf
+
+# Temporary test files
+test_lock.py
+
+# Private outreach records
+data/email_sent_history.csv

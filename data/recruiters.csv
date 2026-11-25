@@ -1,0 +1,3 @@
+recruiter_name,recruiter_email,role,post_url,job_description,email_sent_status,timestamp
+John Smith,john.smith@example.com,Java Developer,https://www.linkedin.com/feed/update/sample1,Hiring Java Developer for C2C contract. US only. Email john.smith@example.com,Pending,
+Sarah Johnson,sarah.j@example.com,Java Developer,https://www.linkedin.com/feed/update/sample2,Looking for Senior Java Developer. C2C accepted. Send resume to sarah.j@example.com,Pending,

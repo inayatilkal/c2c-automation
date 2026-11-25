@@ -1,0 +1,38 @@
+
+[
+  {
+    "recruiter_name": "John Smith",
+    "post_text": "Hiring Java Developer for C2C contract. US only. Email john.smith@example.com",
+    "post_url": "https://www.linkedin.com/feed/update/sample1",
+    "location": "United States",
+    "posted_hours_ago": 3
+  },
+  {
+    "recruiter_name": "Sarah Johnson",
+    "post_text": "Looking for Senior Java Developer. C2C accepted. Send resume to sarah.j@example.com",
+    "post_url": "https://www.linkedin.com/feed/update/sample2",
+    "location": "United States",
+    "posted_hours_ago": 8
+  },
+  {
+    "recruiter_name": "David Brown",
+    "post_text": "Hiring Python Developer. Remote opportunity in USA. Contact david@example.com",
+    "post_url": "https://www.linkedin.com/feed/update/sample3",
+    "location": "United States",
+    "posted_hours_ago": 5
+  },
+  {
+    "recruiter_name": "Alex Wilson",
+    "post_text": "Java Developer C2C requirement. Contact alex@example.com",
+    "post_url": "https://www.linkedin.com/feed/update/sample4",
+    "location": "India",
+    "posted_hours_ago": 2
+  },
+  {
+    "recruiter_name": "Mary Davis",
+    "post_text": "Java Developer C2C requirement in USA. Contact mary@example.com",
+    "post_url": "https://www.linkedin.com/feed/update/sample5",
+    "location": "United States",
+    "posted_hours_ago": 36
+  }
+]
